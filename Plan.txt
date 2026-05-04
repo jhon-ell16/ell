@@ -1,0 +1,96 @@
+================================================================
+  ELL - AI ASSISTANT | PROJECT PLAN & UPDATE NOTES
+================================================================
+Last Updated : 2026-05-05
+Version      : (fill in current version)
+Repository   : (fill in GitHub repo URL)
+Maintainer   : (fill in your name/username)
+================================================================
+
+
+----------------------------------------------------------------
+  WHAT NEEDS TO BE UPDATED
+----------------------------------------------------------------
+[ ] Review and update README.md with latest features
+[ ] Update dependencies to latest stable versions
+[ ] Refactor outdated or deprecated code sections
+[ ] Improve error handling and edge case coverage
+[ ] Add or update environment variables / config documentation
+[ ] Review API integrations for breaking changes
+[ ] Update .gitignore if new files/folders were added
+
+
+----------------------------------------------------------------
+  VERSION / CHANGELOG NOTES
+----------------------------------------------------------------
+
+[v?.?.?] - YYYY-MM-DD  (next release)
+  - (Describe upcoming changes here)
+
+[v?.?.?] - YYYY-MM-DD
+  - (Describe previous release changes here)
+
+[v1.0.0] - Initial Release
+  - Launched Ell AI Assistant
+  - Core conversation and response features
+  - Basic API integration
+
+
+----------------------------------------------------------------
+  TODO CHECKLIST
+----------------------------------------------------------------
+
+FEATURES
+  [ ] Add multi-language support
+  [ ] Improve response accuracy and context retention
+  [ ] Add user preference/settings management
+  [ ] Implement conversation history/logging
+  [ ] Add voice input/output capability (optional)
+
+PERFORMANCE
+  [ ] Optimize API call efficiency
+  [ ] Reduce response latency
+  [ ] Add caching for repeated queries
+
+SECURITY
+  [ ] Audit API key handling and storage
+  [ ] Add rate limiting to prevent abuse
+  [ ] Review and update authentication flow
+
+TESTING
+  [ ] Write unit tests for core AI logic
+  [ ] Add integration tests for API endpoints
+  [ ] Test edge cases (empty input, long prompts, errors)
+
+DOCUMENTATION
+  [ ] Write contributing guide (CONTRIBUTING.md)
+  [ ] Add code comments and docstrings
+  [ ] Create a changelog file (CHANGELOG.md)
+  [ ] Add setup/installation guide in README
+
+DEPLOYMENT
+  [ ] Set up CI/CD pipeline (GitHub Actions)
+  [ ] Configure staging environment
+  [ ] Prepare production deployment checklist
+
+
+----------------------------------------------------------------
+  NOTES / REMINDERS
+----------------------------------------------------------------
+- Always pull latest changes before starting work:
+    git pull origin main
+
+- Commit with clear messages:
+    git commit -m "type: short description"
+    (types: feat, fix, docs, refactor, test, chore)
+
+- Push updates:
+    git push origin main
+
+- Create a new branch for big changes:
+    git checkout -b feature/your-feature-name
+
+
+================================================================
+  END OF PLAN
+================================================================
